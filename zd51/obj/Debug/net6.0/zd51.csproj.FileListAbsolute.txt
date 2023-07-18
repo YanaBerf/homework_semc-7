@@ -1,0 +1,16 @@
+C:\Users\79160\Desktop\homework_semc#7\zd51\bin\Debug\net6.0\zd51.exe
+C:\Users\79160\Desktop\homework_semc#7\zd51\bin\Debug\net6.0\zd51.deps.json
+C:\Users\79160\Desktop\homework_semc#7\zd51\bin\Debug\net6.0\zd51.runtimeconfig.json
+C:\Users\79160\Desktop\homework_semc#7\zd51\bin\Debug\net6.0\zd51.dll
+C:\Users\79160\Desktop\homework_semc#7\zd51\bin\Debug\net6.0\ref\zd51.dll
+C:\Users\79160\Desktop\homework_semc#7\zd51\bin\Debug\net6.0\zd51.pdb
+C:\Users\79160\Desktop\homework_semc#7\zd51\obj\Debug\net6.0\zd51.GlobalUsings.g.cs
+C:\Users\79160\Desktop\homework_semc#7\zd51\obj\Debug\net6.0\zd51.csproj.AssemblyReference.cache
+C:\Users\79160\Desktop\homework_semc#7\zd51\obj\Debug\net6.0\zd51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79160\Desktop\homework_semc#7\zd51\obj\Debug\net6.0\zd51.AssemblyInfoInputs.cache
+C:\Users\79160\Desktop\homework_semc#7\zd51\obj\Debug\net6.0\zd51.AssemblyInfo.cs
+C:\Users\79160\Desktop\homework_semc#7\zd51\obj\Debug\net6.0\zd51.csproj.CoreCompileInputs.cache
+C:\Users\79160\Desktop\homework_semc#7\zd51\obj\Debug\net6.0\zd51.dll
+C:\Users\79160\Desktop\homework_semc#7\zd51\obj\Debug\net6.0\ref\zd51.dll
+C:\Users\79160\Desktop\homework_semc#7\zd51\obj\Debug\net6.0\zd51.pdb
+C:\Users\79160\Desktop\homework_semc#7\zd51\obj\Debug\net6.0\zd51.genruntimeconfig.cache
