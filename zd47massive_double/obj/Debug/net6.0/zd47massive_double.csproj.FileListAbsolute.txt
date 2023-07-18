@@ -1,0 +1,16 @@
+C:\Users\79160\Desktop\homework_semc#7\zd47massive_double\obj\Debug\net6.0\zd47massive_double.GlobalUsings.g.cs
+C:\Users\79160\Desktop\homework_semc#7\zd47massive_double\obj\Debug\net6.0\zd47massive_double.csproj.AssemblyReference.cache
+C:\Users\79160\Desktop\homework_semc#7\zd47massive_double\obj\Debug\net6.0\zd47massive_double.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79160\Desktop\homework_semc#7\zd47massive_double\obj\Debug\net6.0\zd47massive_double.AssemblyInfoInputs.cache
+C:\Users\79160\Desktop\homework_semc#7\zd47massive_double\obj\Debug\net6.0\zd47massive_double.AssemblyInfo.cs
+C:\Users\79160\Desktop\homework_semc#7\zd47massive_double\obj\Debug\net6.0\zd47massive_double.csproj.CoreCompileInputs.cache
+C:\Users\79160\Desktop\homework_semc#7\zd47massive_double\bin\Debug\net6.0\zd47massive_double.exe
+C:\Users\79160\Desktop\homework_semc#7\zd47massive_double\bin\Debug\net6.0\zd47massive_double.deps.json
+C:\Users\79160\Desktop\homework_semc#7\zd47massive_double\bin\Debug\net6.0\zd47massive_double.runtimeconfig.json
+C:\Users\79160\Desktop\homework_semc#7\zd47massive_double\bin\Debug\net6.0\zd47massive_double.dll
+C:\Users\79160\Desktop\homework_semc#7\zd47massive_double\bin\Debug\net6.0\ref\zd47massive_double.dll
+C:\Users\79160\Desktop\homework_semc#7\zd47massive_double\bin\Debug\net6.0\zd47massive_double.pdb
+C:\Users\79160\Desktop\homework_semc#7\zd47massive_double\obj\Debug\net6.0\zd47massive_double.dll
+C:\Users\79160\Desktop\homework_semc#7\zd47massive_double\obj\Debug\net6.0\ref\zd47massive_double.dll
+C:\Users\79160\Desktop\homework_semc#7\zd47massive_double\obj\Debug\net6.0\zd47massive_double.pdb
+C:\Users\79160\Desktop\homework_semc#7\zd47massive_double\obj\Debug\net6.0\zd47massive_double.genruntimeconfig.cache
